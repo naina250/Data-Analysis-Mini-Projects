@@ -1,2 +1,2 @@
 # Tableau KPI Dashboard
-Project details will be added here.
+This Tableau Dashboard shows KPIs (Key Performance Indicators) for current vs. previous year years.
