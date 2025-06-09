@@ -23,6 +23,6 @@ This dashboard visualizes bike sales performance using interactive charts and KP
 
 ---
 
-#  Dashboard Preview
+##  Dashboard Preview
 
 ![Bike Sales Dashboard](Bikes_Sales_Summary.png)
