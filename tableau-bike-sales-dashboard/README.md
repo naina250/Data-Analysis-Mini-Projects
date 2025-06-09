@@ -4,7 +4,7 @@ This dashboard visualizes bike sales performance using interactive charts and KP
 
 ---
 
-## 📊 KPIs Tracked
+##  KPIs Tracked
 
 | Metric         | Value    |
 |----------------|----------|
@@ -14,7 +14,7 @@ This dashboard visualizes bike sales performance using interactive charts and KP
 
 ---
 
-## 🔍 Key Visuals & Insights
+##  Key Visuals & Insights
 
 - **Sales by Country:** The United States and Australia lead in bike sales revenue.
 - **Sales by Model:** The Mountain-200 model generated the highest revenue.
