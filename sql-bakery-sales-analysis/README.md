@@ -28,6 +28,7 @@ The dataset contains order-level data including:
 - Highest revenue comes from Kanpur and Delhi
 - Most customers prefer UPI for payment
 - High Discount might not attract high sales
+- More then 80% orders are delivered
 
 ##  Tools Used
 - MySQL
