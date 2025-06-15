@@ -1,6 +1,6 @@
 # SQL Mini Project - Bakery Sales Analysis
 
-This SQL project analyzes sales data from a bakery business to uncover business insights, such as top-selling products, city-wise trends, and revenue performance.
+This SQL project analyzes a bakery sales data to uncover business insights such as top selling products performance by city, city-wise trends and revenue performance.
 
 ##  Dataset
 The dataset contains order-level data including:
