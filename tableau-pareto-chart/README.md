@@ -2,9 +2,9 @@
 
 Tried out the 80/20 rule in my mini data analytics practice project, and it really helpful in finding how a few product drive most of the sales.
 
-##  Tools Used
+##  Tool Used
 
-Tableau 
+Tableau (data visualization) 
 
 ##  Insights
 
