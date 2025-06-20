@@ -1,4 +1,4 @@
-#  Bike Sales Summary – Tableau Project
+#  Bike Sales Summary – Tableau
 
 This dashboard visualizes bike sales performance using interactive charts and KPIs built in Tableau.
 
