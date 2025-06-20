@@ -2,8 +2,6 @@
 
 I created a Dynamic Measure Selector that allows users to switch between different metrics like Revenue, Order Quantity and Discount using a dropdown.
 
----
-
 ##  What's Special About This Dashboard
 
 ✅ Dynamic metric selection using parameters  
@@ -14,8 +12,6 @@ I created a Dynamic Measure Selector that allows users to switch between differe
 
 ✅ Trend lines with labeled data points  
 ✅ Clear comparison of business metrics over time.
-
----
 
 ##  Dashboard Preview
 
