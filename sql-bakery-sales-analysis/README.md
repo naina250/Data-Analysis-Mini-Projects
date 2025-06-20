@@ -1,4 +1,4 @@
-# SQL Mini Project - Bakery Sales Analysis
+# Bakery Sales Analysis - MySQL
 
 This SQL project analyzes a bakery sales data to uncover business insights such as top selling products performance by city, city-wise trends and revenue performance.
 
@@ -13,6 +13,9 @@ The dataset contains order-level data including:
 - Customer City
 - Payment Mode
 - Delivery Status
+
+##  Tools Used
+- MySQL
 
 ##  SQL Operations
 - Created database and imported data
@@ -29,7 +32,3 @@ The dataset contains order-level data including:
 - Most customers prefer UPI for payment
 - High Discount might not attract high sales
 - More then 80% orders are delivered
-
-##  Tools Used
-- MySQL
-
