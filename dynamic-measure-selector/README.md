@@ -16,4 +16,4 @@ I created a Dynamic Measure Selector that allows users to switch between differe
 ##  Dashboard Preview
 
 ![Dynamic Measure Selector](dynamic_measure_selector.png)
-> View the interactive dashboard here [Tableau Public](https://public.tableau.com/app/profile/naina.sonkar/viz/DynamicMeasureSelector_17452395876960/Dashboard1)
+> View the interactive dashboard here on [Tableau Public](https://public.tableau.com/app/profile/naina.sonkar/viz/DynamicMeasureSelector_17452395876960/Dashboard1)
