@@ -11,4 +11,4 @@ This Tableau Dashboard shows KPIs (Key Performance Indicators) that highlight sa
 ## Dashboard Preview
 
 ![Sales KPI Dashboard](tableau_kpi_dashboard.png)
-> View the Interactive version here on [Tableau Public](https://public.tableau.com/app/profile/naina.sonkar/viz/KPIsforCurrentVs_PreviousYearSales/Dashboard1)
+> Or View the dashboard on [Tableau Public](https://public.tableau.com/app/profile/naina.sonkar/viz/KPIsforCurrentVs_PreviousYearSales/Dashboard1)
